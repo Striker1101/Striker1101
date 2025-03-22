@@ -4,9 +4,9 @@
 <img alt="coding" align:"right" width:"400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHx5uXbK0GQVIUKUMPs8Bsxuv2aPcdlBqbeg&usqp=CAU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=striker1101&label=Profile%20views&color=0e75b6&style=flat" alt="striker1101" /> </p>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Pentration Testing**
 
 - 👯 I’m looking to collaborate on **three js practices**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://erose.vercel.app/blog](https://erose.vercel.app/blog)
 
-- 💬 Ask me about **React, js, webpack, node-js**
+- 💬 Ask me about **React, js, webpack, node-js, anything tech (am your guy)**
 
 - 📫 How to reach me **goodluckodemilin@gmail.com**
 
